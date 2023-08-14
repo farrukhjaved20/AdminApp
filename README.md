@@ -1,5 +1,6 @@
-# auth
-
+# AdminApp
+Email:sophia@appmaking.com
+password:admin123
 A new Flutter project.
 
 ## Getting Started
